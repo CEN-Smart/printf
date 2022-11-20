@@ -1,9 +1,4 @@
-/*
- * File: handlers.c
- * Auth: Oghenekparobo Onosemuode and Ukonu Divine Chisom
- */
-
-#include "holberton.h"
+#include "main.h"
 
 unsigned char handle_flags(const char *flag, char *index);
 unsigned char handle_length(const char *modifier, char *index);

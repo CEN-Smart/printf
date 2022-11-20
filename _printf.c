@@ -1,9 +1,4 @@
-/*
- * File: _printf.c
- * Auth: Oghenekparobo Onosemuode and Ukonu Divine Chisom
- */
-
-#include "holberton.h"
+#include "main.h"
 
 void cleanup(va_list args, buffer_t *output);
 int run_printf(const char *format, va_list args, buffer_t *output);
